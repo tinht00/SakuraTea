@@ -1,0 +1,26 @@
+
+
+.navbar{
+    box-shadow: 3px 0px 6px 0px gray;}
+
+.navbar-nav{
+    /*background: lightblue;*/
+    flex: 1;
+}
+.navbar-brand{
+    /*background: lightcoral;*/
+    flex: 0;
+
+}
+
+.banner{
+    height: 70vh;
+
+}
+.carousel{
+    margin-top: 6px;
+}
+
+a{
+	text-decoration: none;
+}
